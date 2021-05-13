@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@benichal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@benichal" height="30" width="40" /></a>
+<a href="https://twitter.com/KolliImene" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@benichal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bmichelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bmichelin" height="30" width="40" /></a>
 <a href="https://kaggle.com/bakerley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="bakerley" height="30" width="40" /></a>
 </p>

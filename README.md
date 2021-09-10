@@ -17,7 +17,7 @@
     <tr style="border: none;">
       <td style="border: none;">
 
-- **[]GitHub](https://github.com/imene-swaan)**
+- **[GitHub](https://github.com/imene-swaan)**
 - **[LinkedIn](https://www.linkedin.com/in/imenekolli/)**
 - **[Twitter](https://twitter.com/KolliImene)**
 - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://ko-fi.com/imenekolli) ☕**

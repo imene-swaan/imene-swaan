@@ -25,7 +25,7 @@
 - **[Kaggle](https://www.kaggle.com/imene0swaaaan)**
       </td>
       <td style="border: none;">
-        <a href="https://confirm.udacity.com/WZHANPHH"><img src="https://raw.githubusercontent.com/imene-swaan/imene-swaan/main/Resources/Udacity.png" alt="ocjp badge" width="150" height="150"/></a>
+        <a href="https://confirm.udacity.com/WZHANPHH"><img src="https://raw.githubusercontent.com/imene-swaan/imene-swaan/main/Resources/Udacity.png" alt="ocjp badge" width="200" height="150"/></a>
       </td>
   </tbody>
 </table>

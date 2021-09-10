@@ -17,11 +17,10 @@
     <tr style="border: none;">
       <td style="border: none;">
 
-- **[Check out my GitHub](https://github.com/imene-swaan)**
-- **[Have you checked out my LinkedIn?!](https://www.linkedin.com/in/imenekolli/)**
-- **[Hang out with me on Twitter](https://twitter.com/KolliImene)**
+- **[]GitHub](https://github.com/imene-swaan)**
+- **[LinkedIn](https://www.linkedin.com/in/imenekolli/)**
+- **[Twitter](https://twitter.com/KolliImene)**
 - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://ko-fi.com/imenekolli) ☕**
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imenekolli)
 - **[Hackerrank](https://www.hackerrank.com/imenekolli)**
 - **[Kaggle](https://www.kaggle.com/imene0swaaaan)**
       </td>

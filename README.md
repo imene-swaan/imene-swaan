@@ -2,7 +2,7 @@
 
 <h3 align="center">A future Data Scientist in Algeria</h3>
 
-- 🔭 I’m currently working on my **Master's Thesis** 🎓
+- 🔭 I’m currently an MSc data science student at TU Dortmund 🎓
 
 - 👨‍💻 All of my achievements are available on [https://www.linkedin.com/in/imenekolli/](https://www.linkedin.com/in/imenekolli/)
 

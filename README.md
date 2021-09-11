@@ -1,4 +1,4 @@
-<h1 align="center">Hig 😎, I'm Imene KOLLI</h1>
+<h1 align="center">Hi 😎, I'm Imene KOLLI</h1>
 
 <h3 align="center">Data Scientist</h3>
 

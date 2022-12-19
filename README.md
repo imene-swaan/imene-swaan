@@ -30,10 +30,4 @@
   </tbody>
 </table>
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Imene's github stats](https://github-readme-stats.vercel.app/api?username=imene-swaan&hide=contribs,issues&count_private=true&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imene-swaan&hide=Rich%20Text%20Format,html,css,scheme,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=imene-swaan)||
 
-
-![](https://hit.yhype.me/github/profile?user_id=53266529)

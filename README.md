@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Natural Language Processing
   
-- Check out my latest project: (Semantic Shift Detection)[https://imene-swaan.github.io/Diachronic-embeddings/]
+- Check out my latest project: [Semantic Shift Detection](https://imene-swaan.github.io/Diachronic-embeddings/)
 
 - 👨‍💻 All of my achievements are available on [https://www.linkedin.com/in/imenekolli/](https://www.linkedin.com/in/imenekolli/)
 

@@ -2,15 +2,17 @@
 
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m an MSc data science student at TU Dortmund 🎓
+- 🔭 I’m an NLP Research Assistant at University of Zürich 
 
-- 🌱 I’m currently learning Natural Language Processing
+- 🎓 I have an MSc in Data Science from TU Dortmund University
+
+- 🌱 I’m currently working in the field of NLP for Sustainable Finance
   
 - 👨‍💻 Check out my latest project: [Semantic Shift Detection](https://imene-swaan.github.io/Diachronic-embeddings/)
 
 - 🏆 All of my achievements are available on [linkedin.com/in/imenekolli/](https://www.linkedin.com/in/imenekolli/)
 
-- 📫 How to reach me **imenekolli@outlook.com**
+- 📫 How to reach me **imene.kolli@df.uzh.ch**
 
 
 <h3 align="left">Connect with me:</h3>

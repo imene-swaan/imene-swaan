@@ -2,7 +2,7 @@
 
 <h3 align="center">Machine Learning Engineer</h3>
 
-- 🔭 I’m an NLP Research Assistant at University of Zürich 
+- 🔭 I’m an NLP Researcher at University of Zürich 
 
 - 🎓 I have an MSc in Data Science from TU Dortmund University
 
@@ -19,8 +19,5 @@
 
 - **[GitHub](https://github.com/imene-swaan)**
 - **[LinkedIn](https://www.linkedin.com/in/imenekolli/)**
-- **[Twitter](https://twitter.com/KolliImene)**
-- **[Hackerrank](https://www.hackerrank.com/imenekolli)**
-- **[Kaggle](https://www.kaggle.com/imene0swaaaan)**
 
 

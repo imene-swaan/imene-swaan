@@ -10,8 +10,6 @@
   
 - 👨‍💻 Check out my latest project: [ParseStudio](https://github.com/chatclimate-ai/ParseStudio)
 
-- 🏆 All of my achievements are available on [linkedin.com/in/imenekolli/](https://www.linkedin.com/in/imenekolli/)
-
 - 📫 How to reach me **imene.kolli@df.uzh.ch**
 
 
